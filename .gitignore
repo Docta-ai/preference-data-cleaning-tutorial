@@ -1,0 +1,5 @@
+venv/
+test.py
+tmp.log
+docta_http_client
+large_files

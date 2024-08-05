@@ -1,6 +1,6 @@
 # Introducing the Cutting-Edge Preference Label Cleaning API
 
-In today's data-driven world, the integrity and quality of your dataset can make or break the success of AI models. Label noise is one of the most prevalent challenges faced by data scientists and machine learning engineers. Our revolutionary Preference Label Cleaning API is here to transform how you handle noisy labels, ensuring your models are trained on the most accurate and reliable data possible.
+In today's data-driven world, the integrity and quality of your dataset can make or break the success of AI models. Label noise is one of the most prevalent challenges faced by data scientists and machine learning engineers. Our revolutionary Preference Label Cleaning API is here to transform how you handle noisy labels, ensuring your models are trained on the most accurate and reliable data possible. We provide a quick-start demo at [demo.ipynb](demo.ipynb).
 
 ## Why Label Cleaning Matters
 
